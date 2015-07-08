@@ -1,2 +1,5 @@
 tweet_output/*
 build
+.project
+.cproject
+.settings
